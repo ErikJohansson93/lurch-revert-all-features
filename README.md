@@ -1,4 +1,4 @@
-lurch-Clear-all-cache
+lurch-revert-all-features
 =====================
 
 Lurch plugin that executes "drush fra -y" command.
